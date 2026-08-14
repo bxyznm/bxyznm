@@ -21,10 +21,11 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_details: bytes-size
-          plugin_habits: yes
-          plugin_habits_from: 50
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
+          # plugin_habits disabled: GitHub's public events API currently returns
+          # payload.commits: null, which crashes lowlighter/metrics' habits plugin
+          # unconditionally (see lowlighter/metrics#1834, #1807, #1769 upstream).
+          # Re-enable once that's fixed upstream.
+          plugin_habits: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugins_errors_fatal: no
