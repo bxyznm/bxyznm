@@ -30,8 +30,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bxyznm&show_icons=true&hide_border=false&border_color=5B7A8C&bg_color=00000000&title_color=5B7A8C&icon_color=E8A33D&text_color=EAEAEA" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxyznm&layout=compact&hide_border=false&border_color=5B7A8C&bg_color=00000000&title_color=5B7A8C&text_color=EAEAEA" width="40%" />
+<img src="https://github-stats-extended.vercel.app/api?username=bxyznm&show_icons=true&hide_border=false&border_color=5B7A8C&bg_color=00000000&title_color=5B7A8C&icon_color=E8A33D&text_color=EAEAEA" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bxyznm&layout=compact&hide_border=false&border_color=5B7A8C&bg_color=00000000&title_color=5B7A8C&text_color=EAEAEA" width="40%" />
 
 <img src="https://streak-stats.demolab.com/?user=bxyznm&hide_border=false&border=5B7A8C&background=00000000&stroke=5B7A8C&ring=E8A33D&fire=E8A33D&currStreakLabel=EAEAEA&sideLabels=EAEAEA&dates=EAEAEA&currStreakNum=EAEAEA&sideNums=EAEAEA" width="60%" />
 
