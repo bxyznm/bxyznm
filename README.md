@@ -35,6 +35,38 @@
 
 <img src="https://streak-stats.demolab.com/?user=bxyznm&hide_border=false&border=5B7A8C&background=00000000&stroke=5B7A8C&ring=E8A33D&fire=E8A33D&currStreakLabel=EAEAEA&sideLabels=EAEAEA&dates=EAEAEA&currStreakNum=EAEAEA&sideNums=EAEAEA" width="60%" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bxyznm&bg_color=00000000&color=EAEAEA&line=5B7A8C&point=E8A33D&area=true&area_color=5B7A8C&hide_border=true" width="95%" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=bxyznm&theme=dracula&no-frame=true&margin-w=8&row=1" width="95%" />
+
+</div>
+
+### 📊 Metrics
+
+<div align="center">
+
+<!-- metrics-embed -->
+<img src="./metrics.svg" width="100%" />
+<!-- /metrics-embed -->
+
+</div>
+
+### 🐍 Activity Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bxyznm/bxyznm/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bxyznm/bxyznm/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/bxyznm/bxyznm/output/snake.svg" width="100%" />
+</picture>
+
 </div>
 
 ### 📎 Contact
